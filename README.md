@@ -15,7 +15,7 @@ $ npm start
 # Or run with Nodemon
 $ npm run dev
 
-# https://git.heroku.com/register-system-app.git
+https://register-system-app.herokuapp.com/
 ```
 
 ### MongoDB
