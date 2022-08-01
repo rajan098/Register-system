@@ -15,7 +15,7 @@ $ npm start
 # Or run with Nodemon
 $ npm run dev
 
-# Visit http://localhost:5000
+# Visit https://register-system-app.herokuapp.com/
 ```
 
 ### MongoDB
